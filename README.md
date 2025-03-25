@@ -12,7 +12,7 @@ To run Logic Test
 To run Test Properties
 
 - database: RDBMS
-- environment: SQLite3
+- tool: SQLite v3.49.1
 - to run the file
   `sqlite3 peoople.db < schema.sql`
   OR
