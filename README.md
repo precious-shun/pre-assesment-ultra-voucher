@@ -16,4 +16,4 @@ To run Test Properties
 - to run the file
   `sqlite3 peoople.db < schema.sql`
   OR
-  ` sqlite3 people.db ".read schema.sql"`
+  ` sqlite3 people.db ".read schema.sql"` if using powershell
